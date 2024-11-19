@@ -14,7 +14,7 @@
 
 - 後端：PHP
 - 資料庫：MySQL
-- 前端：HTML, JavaScript
+- 前端：HTML
 - 伺服器：Apache
 
 ## 安裝
